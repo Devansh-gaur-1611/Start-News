@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Start News</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Top Headlines</string>
+    <string name="tab_text_2">Everything</string>
+
+</resources>
